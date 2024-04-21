@@ -1,0 +1,16 @@
+Crimson OS comes in three different flavours, each having their respective pros & cons and respective usage:
+
+1.) KDE
+- KDE is a great desktop environment for everyone.
+- With 500 MB of RAM usage on boot, it has been optimised for multi-tasking on the pi 4 and 5
+- With user-friendliness everywhere in KDE, no newbie will be lost trying this desktop out.
+
+2.) XFCE
+- XFCE is a desktop environment for the higher pi models - starting from RAM 4 GB.
+- Though XFCE is partially regarded as lightweight, it's regular updates are a matter of concern to say the least.
+- Multi-tasking is not up to the mark but everyday things like watching youtube, listening music, creating docs is well suited for XFCE.
+
+3.) LXQT (Recommended By Crimson Team)
+- The overall best flavour among the three.
+- Being lightweight, it doesnt occupy much RAM and any other resources.
+- It's responsive and well suited for multi-tasking or any thing.
