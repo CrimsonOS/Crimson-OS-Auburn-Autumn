@@ -32,6 +32,20 @@ _3.) LXQT (Recommended By Crimson Team)_
   (Only To Show Vanilla Desktop - Actual OS May Vary)
 
 
+# Pre-Included Apps?
+- Pi Apps
+- GIMP
+- Chromium
+- Pi Kiss
+- Okular PDF
+- Raspberry Pi Imager
+- NoteIt
+- VLC
+- Gparted
+- Cronsole
+- LibreOffice
+
+
 # How To Install Crimson OS On The Pi ?
 
 Start by installing raspberry pi imager on the respective device:
