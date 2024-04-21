@@ -50,4 +50,4 @@ Upon finishing installation, open up the raspberry pi imager and select the imag
 
 Then boot up your pi and use it!
 
-
+However, upon booting it may ask for your username and password - you can change this later but default user and pass is **crimson**
