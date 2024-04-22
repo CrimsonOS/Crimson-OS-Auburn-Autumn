@@ -10,8 +10,8 @@ _1.) KDE_
 - With 500 MB of RAM usage on boot, it has been optimised for multi-tasking on the pi 4 and 5
 - With user-friendliness everywhere in KDE, no newbie will be lost trying this desktop out.
 
-  ![KDE_neon_6_Breeze_Desktop_English](https://github.com/CrimsonOS/CrimsonOS/assets/163862007/238a7d4b-84e9-4cb8-bcd3-a6f32175a48a)
-  (Only To Show Vanilla Desktop - Actual OS May Vary)
+ ![KDE](https://github.com/CrimsonOS/CrimsonOS/assets/163862007/a6a7e378-2b89-4a64-b643-a764d2fe5067)
+
 
 
 _2.) XFCE_
@@ -19,8 +19,7 @@ _2.) XFCE_
 - Though XFCE is partially regarded as lightweight, it's regular updates are a matter of concern to say the least.
 - Multi-tasking is not up to the mark but everyday things like watching youtube, listening music, creating docs is well suited for XFCE.
 
-  ![image](https://github.com/CrimsonOS/CrimsonOS/assets/163862007/1f55d790-ca24-4525-bd75-6c500a26deab)
-  (Only To Show Vanilla Desktop - Actual OS May Vary)
+![XFCE](https://github.com/CrimsonOS/CrimsonOS/assets/163862007/64f45a59-658f-4c94-95f0-a08dd8fbaec7)
 
 
 _3.) LXQT (Recommended By Crimson Team)_
@@ -28,8 +27,7 @@ _3.) LXQT (Recommended By Crimson Team)_
 - Being lightweight, it doesnt occupy much RAM and any other resources.
 - It's responsive and well suited for multi-tasking or any thing.
 
-  ![image](https://github.com/CrimsonOS/CrimsonOS/assets/163862007/0dcdaedd-d47f-497f-818d-d2b7b72d97a3)
-  (Only To Show Vanilla Desktop - Actual OS May Vary)
+![LXQT](https://github.com/CrimsonOS/CrimsonOS/assets/163862007/6a1638ea-e817-4f90-8b33-182a1979caa6)
 
 
 # Pre-Included Apps?
